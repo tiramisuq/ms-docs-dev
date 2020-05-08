@@ -1,0 +1,1 @@
+Get-ChildItem -Path $env:windir -Filter *.ps1 -Recurse -ErrorAction Stop
